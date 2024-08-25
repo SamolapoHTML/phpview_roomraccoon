@@ -1,0 +1,21 @@
+RoomRaccon-PHP Script
+
+1. Create a database in your MySQL DB
+
+//////////Online Public Server//////////
+
+Host : Localhost
+Database Name : nnhqxdpc_roomradash
+Database Username : nnhqxdpc_roomradashuser
+Database Password : SplashParkedMenaceSalved12
+
+
+if Localhost/Xammp
+
+Host : Localhost
+Database Name : roomdash
+Database Username : root
+Database Password : "leave the password empty"
+
+
+Upload and Extract "Roomdash.zip" file in the root or viewing directory
